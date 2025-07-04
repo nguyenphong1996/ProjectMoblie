@@ -6,5 +6,5 @@
     <color name="secondary">#FF6B00</color>
     <color name="thirty">#900407</color>
     <color name="background">#FEF9D9</color>
-
+    <color name="default_icon">#757575</color>
 </resources>
