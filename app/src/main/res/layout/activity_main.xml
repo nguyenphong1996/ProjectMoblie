@@ -21,9 +21,8 @@
         android:layout_gravity="bottom"
         android:background="@color/white"
         android:layout_alignParentBottom="true"
-        app:menu="@menu/bottom_navigation_menu"
-        app:itemIconTintList="@color/secondary"
-        app:labelVisibilityMode="unlabeled"
-        />
+        app:menu="@menu/bottom_navigation_menu"/>
+<!--        app:itemIconTintList="@color/secondary"/>-->
+<!--        app:labelVisibilityMode="unlabeled"/>-->
 
 </RelativeLayout>
