@@ -2,4 +2,14 @@
     <string name="app_name">Android-Project</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_text">CHÀO MỪNG BẠN ĐẾN VỚI</string>
+    <string name="sologan_text">Tự hào cho - Tự hào nhận</string>
+    <string name="bg_description">Ảnh nền chào mừng</string>
+    <string name="image_logo">Ảnh nền logo</string>
+    <string name="description_text">Gia nhập MGF cùng chúng tôi để trải nghiệm\n
+        những món ngon Việt - ĐẬM ĐÀ BẢN SẮC DÂN TỘC"</string>
+    <string name="button_Register">ĐĂNG KÝ THÀNH VIÊN MỚI</string>
+    <string name="text_Login">Bạn đã có tài khoản rồi? <b>ĐĂNG NHẬP</b></string>"
+    <string name="text_Skip"><u>Bỏ qua</u></string>
+
 </resources>
